@@ -6,7 +6,18 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/dem
 
 ````
 
-## Titulo 2
+## Characters that appear in the photo
+- [x] Tanjiro Kamado
+- [x] Zenitsu Agatsuma
+- [x] Inosuke Hashibira
+- [x] Nezuko Kamado
+- [x] Giyu Tomioka
+- [x] Sakonji Urokodaki
+- [ ] Kyojuro Rengoku
+- [ ] Shinobu Kocho
+- [ ] Mitsuri Kanroji
+- [ ] Gyomei Himejima
+- [ ] Sanemi Shinazugawa
 ### Titulo 3
 #### Titulo 4
 ##### Titulo 5
